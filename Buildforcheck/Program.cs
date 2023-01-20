@@ -21,7 +21,7 @@ namespace Buildforcheck
         public static int Sum(int a, int b)
         {
             if (a > 3)
-                a = 4;
+                a = a/0;
                 return a + b;
         }
 
