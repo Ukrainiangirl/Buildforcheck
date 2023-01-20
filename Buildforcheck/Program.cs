@@ -14,7 +14,7 @@ namespace Buildforcheck
                 c = 10;
             }
 
-            int d = Minus(0, 0);
+            int d = Minus(10, 0);
             Console.WriteLine(c);
         }
 
