@@ -8,14 +8,6 @@ namespace Buildforcheck
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //int c = Sum(2, 3);
-            //if (c == 0)
-            //{
-            //    c = 10;
-            //}
-
-            //int d = Minus(10, 0);
-            //Console.WriteLine(c);
         }
 
         public int Sum(int a, int b)
